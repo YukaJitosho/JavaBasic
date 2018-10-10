@@ -22,15 +22,51 @@ public class PTra01_07 {
 		// ★ それぞれの型変数に、値を代入してください
 		// ※ 値は、好きな数字を入力してください
 
+       int  bobo;
+       bobo=1;
+       System.out.println("boolern" +bobo);
+       
+       int  byby;
+       byby=2;
+       System.out.println("byte" +byby);
+       
+       int  ssss;
+       ssss=3;
+       System.out.println("short" +ssss);
+       
+       int  cccc;
+       cccc=4;
+       System.out.println("char" +cccc);
+       
+       int  iiii;
+       iiii=5;
+       System.out.println("int" +iiii);
+       
+       int  llll;
+       llll=6;
+       System.out.println("long" +llll);
+       
+       int  ffff;
+       ffff=7;
+       System.out.println("float" +ffff);
+       
+       int  dddd;
+       dddd=8;
+       System.out.println("double" +dddd);
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+		 
+		  
+		
 
-
-
-
-
-
-
-
-		// ★ それぞれの変数の中身を出力してください
 
 
 
@@ -42,3 +78,4 @@ public class PTra01_07 {
 
 	}
 }
+;

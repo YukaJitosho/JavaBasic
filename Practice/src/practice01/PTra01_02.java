@@ -12,7 +12,7 @@ public class PTra01_02 {
 		// ★ 12～14行目をコメントにしてください。
 
 
-		 System.out.println("Hello word");
+		 System.out.println("Hello,word");
 
 
 

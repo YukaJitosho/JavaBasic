@@ -20,5 +20,6 @@ public class PTra01_05 {
 		// ★ 変数 c の中身を出力してください
 
 		System.out.println(c);
+
 	}
 }

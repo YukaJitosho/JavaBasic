@@ -34,5 +34,73 @@ public class PTra03_05 {
 		 * ※ プログラムは何行書いても良いです
 		 */
 
+		switch (num) {
+		
+		
+         if(75 >= 100) {
+        	 System.out.println("雨が降る確率が高いです");
+        	 
+        if (30 > 74) {
+        	System.out.println("雨が降るかもしれないです");
+        	
+        if (0 >30) {
+        	System.out.println("雨はまず降らないでしょう");
+        	
+        	
+        	
+        
+        	
+        if (num<0 && num >100) {
+        	System.out.println("不正な値が入力されました");
+        	
+        }
+        
+        }
+        }
+         }
 	}
 }
+}
+        	
+        	
+        	
+        	
+        	
+   
+       
+        	 
+        	 
+        	 
+        	 
+        	 
+        	 
+        	 
+        	 
+        	 
+        	 
+        	 
+        	 
+        	 
+        	 
+        	 
+        	 
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+

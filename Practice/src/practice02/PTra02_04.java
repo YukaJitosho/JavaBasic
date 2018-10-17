@@ -8,7 +8,14 @@ package practice02;
 
 public class PTra02_04 {
 	public static void main(String[] args) {
-		int d_num = 25;
+		int d̠num= 25;
+		d̠num=(d̠num+ d̠num);
+		  System.out.println(d̠num);
+		
+		
+		
+		
+		
 
 		// ★ d_num と d_num の合計をd_numに代入してください
 

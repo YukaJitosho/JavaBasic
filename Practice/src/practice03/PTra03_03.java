@@ -12,8 +12,6 @@ public class PTra03_03 {
 		// 下記の命令は、入力型プログラムで必要な記述になります。
 		java.util.Scanner scanner = new java.util.Scanner(System.in);
 
-		System.out.println("100");
-
 		// コマンドプロンプトで入力した文字列が変数lineに代入されます
 		String line = scanner.nextLine();
 
@@ -23,15 +21,18 @@ public class PTra03_03 {
 
 		//---------------------ここから本題-----------------------
 		// ★ 入力された値が、3で割り切れる数字か判定する条件式を記述してください
-		
-	
-		num = 100
-		
-		if(){
+
+
+
+		if(num % 3 == 0){
 			System.out.println("3で割り切れる数字です");
 		} else {
 			System.out.println("3で割り切れない数字です");
 		}
+
+
+
+
 
 	}
 }
